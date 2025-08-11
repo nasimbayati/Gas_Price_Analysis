@@ -1,4 +1,4 @@
-# gas-price-insights
+# Gas_Price_Insights
 
 A small, portfolio-friendly toolkit for exploring and visualizing gas price time series using **Pandas** and **Matplotlib** (no course text or proprietary files).
 
